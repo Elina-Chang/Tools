@@ -1,3 +1,2 @@
 # Tools
-
-- store some useful python script.
+Store some useful python script.
